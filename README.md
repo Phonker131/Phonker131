@@ -10,7 +10,7 @@ Open to **junior full-stack, backend, and frontend developer** opportunities in 
 
 ## Commercial development experience
 
-My two production Telegram solutions have **40,000+ registered users combined**, based on figures in my CV (not a live user count). The client project source code is not presented as public code.
+The clients reported **40,000+ registered users combined** across the two production Telegram solutions (29,000+ for Pivasov and 14,000+ for Galya Baluvana). These are client-provided registration figures, not independently audited figures or concurrent-user counts. The client project source code is not presented as public code.
 
 ### [Galya Baluvana Odesa — ordering system](https://galyabaluvanaod.com/)
 
@@ -21,13 +21,13 @@ Developed a commercial ordering website for a retail chain, including:
 
 **Stack:** HTML, CSS, JavaScript, PHP 8, MySQL, REST APIs.
 
-The same business also uses a [production Telegram bot](https://t.me/gb_odesa_bot), reported in my CV to have **14,000+ registered users**, built using Python and the Telegram Bot API.
+The same business also uses a [production Telegram bot](https://t.me/gb_odesa_bot) with **14,000+ registered users reported by the client**, built using Python and the Telegram Bot API.
 
 ### [Pivasov Beer Bot — production Telegram bot](https://t.me/PivasovBeer_Bot)
 
 Designed, developed, deployed, and maintained a customer-facing Telegram bot for a retail chain. Features include customer communication and broadcast messaging.
 
-**Scale:** **29,000+ registered users** reported in my CV.  
+**Scale:** **29,000+ registered users**, according to the client.  
 **Stack:** Python 3, Telegram Bot API, pyTelegramBotAPI (Telebot), Requests.
 
 ## Selected open-source and educational projects
