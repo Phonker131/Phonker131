@@ -1,50 +1,63 @@
 # Tymur Shapoval
 
-**Frontend-focused developer · React, JavaScript & TypeScript · Prague, Czech Republic**
+**Junior Full-Stack Developer / Web Developer · Prague, Czech Republic**
 
-I'm an Informatics student at the Czech University of Life Sciences Prague and a freelance developer working on web projects since 2024. I focus on frontend development and also work with Python/PHP backends, APIs, and Telegram bots.
+I build web applications, ordering systems, REST API integrations, and Telegram bots. My experience includes commercial projects for retail businesses, from implementation and deployment to ongoing maintenance. I work with JavaScript, React, PHP, MySQL, and Python.
 
-I'm interested in junior frontend and fullstack development opportunities.
+Open to **junior full-stack, backend, and frontend developer** opportunities in Prague or remotely.
 
-[LinkedIn](https://www.linkedin.com/in/tymur-shapoval-b0228b2bb/)
+[LinkedIn](https://www.linkedin.com/in/tymur-shapoval-b0228b2bb) · [Commercial website](https://galyabaluvanaod.com/)
 
-## Client work
+## Commercial development experience
 
-These are professional projects; their source code is not presented as public portfolio code.
+My two production Telegram solutions have **40,000+ registered users combined**, based on figures in my CV (not a live user count). The client project source code is not presented as public code.
 
-| Project | Contribution | Technologies |
+### [Galya Baluvana Odesa — ordering system](https://galyabaluvanaod.com/)
+
+Developed a commercial ordering website for a retail chain, including:
+- API-powered product catalog, categories, and pagination
+- Shopping cart and checkout/order form
+- Backend endpoint that sends orders to a company email for manual processing (no online payment gateway)
+
+**Stack:** HTML, CSS, JavaScript, PHP 8, MySQL, REST APIs.
+
+The same business also uses a [production Telegram bot](https://t.me/gb_odesa_bot), reported in my CV to have **14,000+ registered users**, built using Python and the Telegram Bot API.
+
+### [Pivasov Beer Bot — production Telegram bot](https://t.me/PivasovBeer_Bot)
+
+Designed, developed, deployed, and maintained a customer-facing Telegram bot for a retail chain. Features include customer communication and broadcast messaging.
+
+**Scale:** **29,000+ registered users** reported in my CV.  
+**Stack:** Python 3, Telegram Bot API, pyTelegramBotAPI (Telebot), Requests.
+
+## Selected open-source and educational projects
+
+| Project | What the code demonstrates | Stack / status |
 | --- | --- | --- |
-| [Galya Baluvana Odesa](https://galyabaluvanaod.com/) | Developed a website for a retail chain | HTML, CSS, PHP 8, MySQL, JavaScript |
-| [Pivasov Telegram bot](https://t.me/PivasovBeer_Bot) | Commercial Telegram bot development; 20,000+ users reported in my CV | Python, pyTelegramBotAPI, Requests |
-| [GB Odesa Telegram bot](https://t.me/gb_odesa_bot) | Commercial Telegram bot development; 5,000+ users reported in my CV | Python, pyTelegramBotAPI, Requests |
+| [TicketTreat](https://github.com/Phonker131/TicketTreat) | Event registration bot, participant profiles, event administration, and a backend API | Python, FastAPI, SQLAlchemy, PostgreSQL · **Active development, not a finished release** |
+| [Tool Fan Page](https://github.com/Phonker131/tool-fan-page) | Reusable React components, routing, and JSON-backed UI | React, Vite, Tailwind CSS · Educational |
+| [Articles](https://github.com/Phonker131/Articles-project) | Article CRUD, search, custom routing, and MySQL integration | PHP, MySQL, JavaScript · University project |
+| [Front-end Pro coursework](https://github.com/Phonker131/front-end-pro2025-shapoval) | JavaScript assignments progressing to React, Redux, and Redux Saga | JavaScript, React · Hillel IT School, 2025 |
 
-The audience figures above are from my CV, not live user counters.
-
-## Selected public projects
-
-| Project | What you can review | Technologies and status |
-| --- | --- | --- |
-| [Tool Fan Page](https://github.com/Phonker131/tool-fan-page) | A React website with routing, reusable components, and JSON-backed content | React, Vite, Tailwind CSS · Educational |
-| [TicketTreat](https://github.com/Phonker131/TicketTreat) | Telegram event registration, participant profiles, event management, and backend API | Python, FastAPI, PostgreSQL, SQLAlchemy · **Work in progress** |
-| [Articles](https://github.com/Phonker131/Articles-project) | Article CRUD, search, custom PHP routing, and database access | PHP, MySQL, JavaScript · University project |
-| [Front-end Pro coursework](https://github.com/Phonker131/front-end-pro2025-shapoval) | Exercises progressing from JavaScript and browser APIs to React, Redux, and Redux Saga | JavaScript, React · Hillel IT School (2025) |
-
-TicketTreat is actively being developed and is not presented as a finished release.
+TicketTreat is a work in progress; its documentation describes the current state and limitations.
 
 ## Technical skills
 
-- **Frontend:** HTML, CSS, SCSS, JavaScript, TypeScript, React, React Router, Tailwind CSS, Vite
-- **Backend and APIs:** Python, FastAPI, pyTelegramBotAPI, PHP, REST APIs
-- **Databases:** PostgreSQL, MySQL
-- **Development tools:** Git, GitHub, npm, pip, Figma
+- **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3, SCSS, Tailwind CSS
+- **Backend:** PHP 8, Python 3, FastAPI, Telegram Bot API
+- **Data and integration:** MySQL, PostgreSQL, REST APIs, AJAX, ordering flows
+- **Tools:** Git, GitHub, Figma
 
-## Education and training
+## Education and courses
 
-- **Czech University of Life Sciences Prague (ČZU):** Informatics, since 2025
-- **Hillel IT School — Front-end Pro (2025):** Completed with **Excellent** evaluation. [Review my course exercises](https://github.com/Phonker131/front-end-pro2025-shapoval)
-- **Hillel IT School — Introduction to Java (2020):** Completed with **Very Good** evaluation
+- **Czech University of Life Sciences Prague (ČZU)** — Informatics, 2025–present
+- **Charles University, Prague** — Informatics, programming and software development, 2022–2024
+- **Hillel IT School: Front-end Pro**, May–September 2025 — completed with an **Excellent** evaluation; [browse coursework](https://github.com/Phonker131/front-end-pro2025-shapoval)
+- **Hillel IT School: Introduction to Java**, 2020 — completed with a **Very Good** evaluation
 
-## Earlier projects
+**Languages:** Czech B2, English B2, Ukrainian (native), Russian (native).
 
-- [Korn Bot](https://github.com/Phonker131/Korn-Bot) — a Python Discord music and reaction-role bot.
-- [SoundIsland](https://github.com/Phonker131/SoundIsland) — a Windows Forms desktop music-player learning project with C# and Python integration.
+## Earlier learning projects
+
+- [Korn Bot](https://github.com/Phonker131/Korn-Bot) — Python Discord music and reaction-role bot.
+- [SoundIsland](https://github.com/Phonker131/SoundIsland) — C# / .NET Windows Forms music-player project with Python integration.
